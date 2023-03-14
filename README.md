@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamweeh
 - 👀 I’m interested in dockerization
-- 🌱 I’m currently learning selenium for web application testing
+- 🌱 I’m currently learning selenium and playwright for web application testing
 - 💞️ I’m looking to collaborate on automation testing
 - 📫 YOU CANNOT REACH ME
 
